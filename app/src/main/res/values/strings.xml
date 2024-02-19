@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice 2</string>
+    <string name="back">Back</string>
+    <string name="Courses">Courses</string>
+    <string name="CourseImage">Course Image</string>
+    <string name="CourseDetails">Course Details</string>
+    <string name="ReturnSuccess">Successfully returned from %s</string>
+    <string name="ReturnFailure">There was an issue returning from the course details</string>
+</resources>
